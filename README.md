@@ -8,7 +8,7 @@
 
 <p align="center">
   I'm a <strong>Computer Science student</strong> who enjoys building smart systems and web-based applications.<br>
-  I love combining <strong>code, logic, and creativity</strong> to bring ideas to life — whether it’s a machine learning model or a dynamic frontend.<br>
+  I love combining <strong>code, logic, and creativity</strong> to bring ideas to life whether it’s a machine learning model or a dynamic frontend.<br>
   I work on hands-on projects that use <strong>AI, ML, JavaScript, MongoDB, SQL, and more</strong> to solve real-world problems.
 </p>
 
