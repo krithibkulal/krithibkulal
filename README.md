@@ -52,7 +52,7 @@
   <a href="mailto:krithibkulal25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/krithibkulal">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge&logoColor=white" />
   </a>
 </p>
